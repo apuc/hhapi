@@ -8,7 +8,7 @@
             "email": "apuc06@mail.ru"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0"
     }
