@@ -1,0 +1,13 @@
+{
+    "name": "kavalar/hhapi",
+    "type": "composer-plugin",
+    "license": "free",
+    "authors": [
+        {
+            "name": "Kavalar",
+            "email": "apuc06@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
