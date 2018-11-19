@@ -1,5 +1,6 @@
 {
     "name": "kavalar/hhapi",
+    "type": "library",
     "license": "BSD-3-Clause",
     "authors": [
         {
